@@ -1,0 +1,24 @@
+{
+  "name": "roz",
+  "version": "1.0.0",
+  "description": "A slack bot to define or crush acronyms",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack"
+  ],
+  "author": "Bret Doucette",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "lodash": "^4.17.2",
+    "pryjs": "^1.0.3",
+    "slackbots": "^0.5.3"
+  },
+  "devDependencies": {
+    "pryjs": "^1.0.3"
+  }
+}
