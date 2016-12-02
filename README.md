@@ -5,18 +5,23 @@
 
 ### If so, do you get confused at sentences like those below?
 
-**1. What was the CPC on the new GA campaign?**
+```
+1. What was the CPC on the new GA campaign?
 
-**2. Did this campaign generate anymore UV?**
+2. Did this campaign generate anymore UV?
 
-**3. Did they not read our TOS - they should know we are a B2B and not a B2C - LOLZ?**
+3. Did they not read our TOS - they should know we are a B2B and not a B2C - LOLZ?
+```
 
 Yes it is annoying - constantly looking up the meaning of things. But now there is Roz. 
 
 ## Who is Roz?
 
 ![Roz](https://s3.amazonaws.com/random-fun/Roz-in-Monsters-Inc..jpg "Roz the Acronym Slayer")
-This is Roz - The Acronym Slayer
+
+## Roz the Acronym Slayer
+
+Roz never sleeps. She is always viligent, always ready to stop an acronym dead in its track. Confused - don't worry Roz will define them for you. Never fear again, when marketing uses Slack, you won't be lost. You will have the power of Roz and will be enternally grateful. 
 
 ## Usage
 
