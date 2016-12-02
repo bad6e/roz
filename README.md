@@ -19,9 +19,11 @@ Yes it is annoying - constantly looking up the meaning of things. But now there 
 
 ![Roz](https://s3.amazonaws.com/random-fun/Roz-in-Monsters-Inc..jpg "Roz the Acronym Slayer")
 
-## Roz the Acronym Slayer
+## Roz is the Acronym Slayer
 
-Roz never sleeps. She is always viligent, always ready to stop an acronym dead in its track. Confused - don't worry Roz will define them for you. Never fear again, when marketing uses Slack, you won't be lost. You will have the power of Roz and will be enternally grateful. 
+Roz never sleeps. She is always viligent, always ready to stop an acronym dead in its track. Never again will you have to fear the marketing team's channel on slack. You will have the power of Roz, and you will be enternally grateful.
+
+![Roz](https://s3.amazonaws.com/random-fun/Screen+Shot+2016-12-02+at+2.51.48+PM.png "Roz in Action")
 
 ## Usage
 
