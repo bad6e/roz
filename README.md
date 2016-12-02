@@ -3,7 +3,7 @@
 
 ## Do you have employees who consistently use acronyms on Slack?
 
-### If so, do you get confused at sentences like those below?
+### If so, do you get confused at sentences like these below?
 
 ```
 1. What was the CPC on the new GA campaign?
