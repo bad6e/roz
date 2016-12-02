@@ -5,10 +5,15 @@
   "main": "index.js",
   "scripts": {
     "start": "node bin/bot.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bad6e/roz"
   },
   "keywords": [
-    "slack"
+    "slack",
+    "acronyms"
   ],
   "author": "Bret Doucette",
   "license": "MIT",
@@ -19,6 +24,8 @@
     "slackbots": "^0.5.3"
   },
   "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
     "pryjs": "^1.0.3"
   }
 }
