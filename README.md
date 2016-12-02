@@ -3,15 +3,20 @@
 
 ## Do you have employees who consistently use acronyms on Slack?
 
-### If so, do you get confused at sentences like this?
+### If so, do you get confused at sentences like those below?
 
-```What was the CPC on the new GA campaign?``` 
-```Did it generate anymore UV?```
+**1. What was the CPC on the new GA campaign?**
 
-If you answered yes - then ROZ is for you.
+**2. Did this campaign generate anymore UV?**
+
+**3. Did they not read our TOS - they should know we are a B2B and not a B2C - LOLZ?**
+
+Yes it is annoying - constantly looking up the meaning of things. But now there is Roz. 
+
+## Who is Roz?
 
 ![Roz](https://s3.amazonaws.com/random-fun/Roz-in-Monsters-Inc..jpg "Roz the Acronym Slayer")
-
+This is Roz - The Acronym Slayer
 
 ## Usage
 
