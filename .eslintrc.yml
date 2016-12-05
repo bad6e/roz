@@ -1,0 +1,10 @@
+extends: standard
+plugins:
+  - standard
+  - promise
+  - mocha
+rules:
+  semi: ["error", "always"]
+
+env:
+  mocha: true
