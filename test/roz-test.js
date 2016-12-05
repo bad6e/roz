@@ -2,6 +2,8 @@ const chai = require('chai');
 const assert = chai.assert;
 const Roz = require('../lib/index');
 const Fixtures = require('./fixtures.js');
+const acronymList = require('../lib/acronyms.js');
+pry = require('pryjs');
 
 describe('ROZ', function () {
   beforeEach(function () {
@@ -49,5 +51,12 @@ describe('ROZ', function () {
     this.roz.channels = this.fixtures.channels;
     let channel = this.roz.getChannelById('C13FS65L7');
     assert.equal(channel.id, 'C13FS65L7');
+  });
+
+  it('should not contain an acronym in the definition of the acronym', function () {
+    for (var key in acronymList) {
+      let acronymDefinitionOne = this.roz.checkAndDefineAcronym(acronymList[key]);
+      assert.equal(acronymDefinitionOne, undefined);
+    }
   });
 });
