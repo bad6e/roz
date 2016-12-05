@@ -13,7 +13,7 @@
 3. Did they not read our TOS - they should know we are a B2B and not a B2C - LOLZ?
 ```
 
-Yes it is annoying - constantly looking up the meaning of things. But now there is Roz. 
+Yes it is annoying - constantly looking up the meaning of things. But now there is Roz.
 
 ## Who is Roz?
 
@@ -28,4 +28,6 @@ Roz never sleeps. She is always vigilant, always ready to stop an acronym dead i
 ## Usage
 
 Roz works by checking for acronyms used in daily slack channel conversations. The list of fully supported acronyms can be found in `lib/acronyms.js`
+
+## Stay Tuned for More!
 
