@@ -29,5 +29,5 @@ Roz never sleeps. She is always vigilant, always ready to stop an acronym dead i
 
 Roz works by checking for acronyms used in daily slack channel conversations. The list of fully supported acronyms can be found in `lib/acronyms.js`
 
-## Stay Tuned for More!
+## Stay Tuned for More
 
