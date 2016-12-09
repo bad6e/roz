@@ -10,7 +10,7 @@
 
 const Roz = require('../lib/index');
 
-const token = process.env.BOT_API_KEY || require('../token');
+const token = process.env.BOT_API_KEY;
 const name = process.env.BOT_NAME;
 
 const rozbot = new Roz({
