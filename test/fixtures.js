@@ -21,6 +21,10 @@ const Fixtures = function () {
 
   this.textTwo = 'That post was horribel?! TL;DR';
 
+  this.textWithMultipleAcronyms1 = 'That thing you sent me RN when I was AFK was really funny!';
+
+  this.textWithWeirdSyntax = 'That, thing you &#, sent me RN ! when I was,, AFK was really funny!';
+
   this.userRoz = {
     id: 'IAMROZ',
     team_id: 'T132NMLJV',
