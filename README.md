@@ -1,4 +1,4 @@
-# Roz.js
+# Roz.js - Version 1.0.2
 [![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/mishk0/slack-bot-api/master/LICENSE)
 
 ## Do you have employees who consistently use acronyms on Slack?
@@ -29,5 +29,8 @@ Roz never sleeps. She is always vigilant, always ready to stop an acronym dead i
 
 Roz works by checking for acronyms used in daily slack channel conversations. The list of fully supported acronyms can be found in `lib/acronyms.js`
 
-## Stay Tuned for More
+## Whats New
+
+12.1.16 - Roz comes alive!
+12.9.16 - Roz now handle multiple acronyms in a message and defines all of them used.
 
