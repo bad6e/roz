@@ -31,6 +31,6 @@ Roz works by checking for acronyms used in daily slack channel conversations. Th
 
 ## Whats New
 
-12.1.16 - Roz comes alive!
-12.9.16 - Roz now handle multiple acronyms in a message and defines all of them used.
+1. 12.1.16 - Roz comes alive!
+2. 12.9.16 - Roz now handle multiple acronyms in a message and defines all of them used.
 
