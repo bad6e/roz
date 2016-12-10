@@ -43,25 +43,30 @@ describe('ROZ', function () {
     assert.deepEqual(acronymDefinitionOne, ['CPC']);
 
     let acronymDefinitionTwo = this.roz.checkIfAcronymsAreBeingUsed(this.fixtures.textTwo);
-    assert.deepEqual(acronymDefinitionTwo, ['TL;DR']);
+    assert.deepEqual(acronymDefinitionTwo, ['TLDR']);
   });
 
   it('should check if a message contains multiple acronyms and return acronyms', function () {
-    let acronymDefinitionOne = this.roz.checkIfAcronymsAreBeingUsed(this.fixtures.textWithMultipleAcronyms1);
+    let acronymDefinitionOne = this.roz.checkIfAcronymsAreBeingUsed(this.fixtures.textWithMultipleAcronyms);
     assert.deepEqual(acronymDefinitionOne, ['RN', 'AFK']);
   });
 
-  it('handles weird language syntax', function () {
+  it('handles weird language syntax - &#!@', function () {
     let acronymDefinitionOne = this.roz.checkIfAcronymsAreBeingUsed(this.fixtures.textWithWeirdSyntax);
     assert.deepEqual(acronymDefinitionOne, ['RN', 'AFK']);
+  });
+
+  it('handles phrases that end in questions', function () {
+    let acronymDefinitionOne = this.roz.checkIfAcronymsAreBeingUsed(this.fixtures.textWithEndInQuestion);
+    assert.deepEqual(acronymDefinitionOne, ['TOS', 'B2B', 'B2C', 'LOLZ']);
   });
 
   it('should define the acronym being used', function () {
     let acronymDefinitionOne = this.roz.defineAcronymsBeingUsed(['CPC']);
     assert.equal(acronymDefinitionOne, 'Cost per click');
 
-    let acronymDefinitionTwo = this.roz.defineAcronymsBeingUsed(['TL;DR']);
-    assert.equal(acronymDefinitionTwo, 'Too long, didn’t read');
+    let acronymDefinitionTwo = this.roz.defineAcronymsBeingUsed(['TLDR']);
+    assert.equal(acronymDefinitionTwo, 'Too long did not read');
   });
 
   it('should define the acronyms being used', function () {

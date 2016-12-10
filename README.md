@@ -25,6 +25,8 @@ Roz never sleeps. She is always vigilant, always ready to stop an acronym dead i
 
 ![Roz](https://s3.amazonaws.com/random-fun/Screen+Shot+2016-12-02+at+2.51.48+PM.png "Roz in Action")
 
+![Roz](https://s3.amazonaws.com/random-fun/Screen+Shot+2016-12-09+at+5.06.21+PM.png "Roz in Action Part II")
+
 ## Usage
 
 Roz works by checking for acronyms used in daily slack channel conversations. The list of fully supported acronyms can be found in `lib/acronyms.js`

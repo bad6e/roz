@@ -19,11 +19,13 @@ const Fixtures = function () {
 
   this.textOne = 'Does anyone know what the CPC was for our latest campaign?';
 
-  this.textTwo = 'That post was horribel?! TL;DR';
+  this.textTwo = 'That post was horrible?! TLDR';
 
-  this.textWithMultipleAcronyms1 = 'That thing you sent me RN when I was AFK was really funny!';
+  this.textWithMultipleAcronyms = 'That thing you sent me RN when I was AFK was really funny!';
 
-  this.textWithWeirdSyntax = 'That, thing you &#, sent me RN ! when I was,, AFK was really funny!';
+  this.textWithWeirdSyntax = 'That, thing you &#, sent me @ RN ! when I was,, AFK was really funny!';
+
+  this.textWithEndInQuestion = 'Did they not read our TOS - they should know we are a B2B and not a B2C - LOLZ?';
 
   this.userRoz = {
     id: 'IAMROZ',
